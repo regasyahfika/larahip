@@ -55546,7 +55546,7 @@ var router = new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({
     component: _components_posts_Edit_vue__WEBPACK_IMPORTED_MODULE_4__["default"]
   }, {
     name: 'dashboard',
-    path: '/dashboard',
+    path: '/',
     component: _components_Dashboard_vue__WEBPACK_IMPORTED_MODULE_5__["default"]
   }, {
     name: 'transaksi',
